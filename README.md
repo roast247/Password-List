@@ -9,6 +9,14 @@ You will need to install the krypton component system into VS, but if not, the f
 <img src="https://github.com/roast247/Password-List/blob/main/List%20Generator.PNG">
   <hr>
 Disclaimer: I am not resposible for any illegal actions with the use of my programs
+
+  If you would like to contact me, email me at https://roast247.eu.org/contact.php
+</h4>
+
+<h4 align="center">
+
   
-  If you would like to contact me, email me at support@roast247.eu.org
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=roast247&show_icons=true)
+
+
 </h4>
